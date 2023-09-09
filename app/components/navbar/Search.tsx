@@ -39,7 +39,7 @@ const Search = () => {
       return `${diff} Days`;
     }
 
-    return 'Any Week'
+    return '15 days minimum stay'
   }, [startDate, endDate]);
 
   const guestLabel = useMemo(() => {
