@@ -4,6 +4,8 @@ A full-featured Airbnb-style property rental platform built with **Next.js 13 Ap
 
 > Developed by **Favour Ozogbu** as a showcase of advanced full-stack development using Next.js, Tailwind CSS, Prisma, and Cloudinary.
 
+![Copy of Fullstack Twitter Clone (8)](https://user-images.githubusercontent.com/23248726/229031522-64a49ad0-66f7-4ea8-94a8-f64a0bb56736.png)
+
 ---
 
 ## Features
