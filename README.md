@@ -120,7 +120,7 @@ Running commands with npm `npm run [command]`
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
 
-## 👨‍💻 Authors Contact   
+## 👨‍💻 Author's Contact   
 ### For collaboration or freelance work:
 
 **Favour S. Ozogbu**   
