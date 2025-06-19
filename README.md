@@ -121,7 +121,7 @@ Running commands with npm `npm run [command]`
 | `dev`           | Starts a development instance of the app |
 
 ## 👨‍💻 Author's Contact   
-### For collaboration or freelance work:
+**For collaboration or freelance work:**
 
 **Favour S. Ozogbu**   
 📧 favoursozogbu@gmail.com  
